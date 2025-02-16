@@ -29,7 +29,7 @@ Install Directions:
 1. Open your game install path to the 'polplugins\DATs' folder. Example below:
 ** IE: C:\HorizonXI\Game\polplugins\DATs
 
-2. Within the zip file, Copy/Move/Drag-drop those folders into the game path's 'polplugins\DATs' folder
+2. Within the zip file, Copy/Move/Drag-drop the like named folder of that zip file into the game path's 'polplugins\DATs' folder
 
 3. Launch the game and enjoy. They are enabled by default via the launcher.
 
