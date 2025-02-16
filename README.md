@@ -26,6 +26,13 @@ Launcher Method:
 2. Use the on/off toggle for any you do not want activated.
 
 
+In-Game Method:
+1. Type "/pivot" to load the XIPivot GUI.
+
+2. Within that GUI you can press the minus (-) button next to the item you no longer want to use.
+
+3. It is recommended to restart the game after doing this.
+
 
 Permanent Method:
 1. Open your game install path to the 'polplugins\DATs' folder. Example below:
